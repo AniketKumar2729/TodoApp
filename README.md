@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Todo App - React Native
 
 
@@ -65,7 +63,11 @@ To run this project, you will need to add the following environment variables to
 
 ## Demo 
 
-https://github.com/user-attachments/assets/9afe2d1d-355d-4b2a-b9e9-2e0a4ae411f1
+
+
+https://github.com/user-attachments/assets/627d5140-04cc-4706-879d-9b07abf4f9fa
+
+
 
 
 ## License
